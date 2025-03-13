@@ -1,0 +1,60 @@
+
+
+    
+    <script src="/assets/js/discussion.js"></script>
+    </br></br></br>
+    <h1 class="header center orange-text">Book of the Week</h1>
+        <div class="card yellow lighten-4 comment-card s12 m4">
+            <div class="card-content current-book white-text">
+                <span class="card-title center">{{current.title}}</span>
+                <br><br>
+                <div class="current-card-image card-image">
+                    <img src={{current.coverArtURL}}>
+                </div>
+            </div>
+     <div class="row">
+    <form class="col s12">
+      <div class="row">
+        <div class="input-field col s6">
+          <i class="material-icons prefix">account_circle</i>
+          <textarea id="first-name" class="materialize-textarea"></textarea>
+          <label for="first-name">First Name</label>
+        </div>
+      </div>
+    </form>
+  </div>
+   <div class="row">
+    <form class="col s12">
+      <div class="row">
+        <div class="input-field col s6">
+          <i class="material-icons prefix">mode_edit</i>
+          <textarea id="comment" class="materialize-textarea"></textarea>
+          <label for="comment">Post a comment about the book:</label>
+        </div>
+      </div>
+    </form>
+  </div>
+            <div class="row center">
+              <input type="hidden" value={{current.weekID}} id="week-id"/>
+              <a href="#" id="post-discussion-btn" class="btn-large waves-effect waves-light orange">Post</a>
+            </div>
+
+
+            <div class="row">
+              <div class="col s12">
+                <h3>Comments:</h3>
+                <div id="comment-cards"></div>
+              </div>
+            </div>
+
+                </div>
+            </div>
+        </form>
+    </div>
+
+
+
+
+   
+
+            </div>
