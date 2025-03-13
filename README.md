@@ -6,7 +6,7 @@
 <table>
 <tr>
 <td>
-  A virtual book club to help keep readers connected during quarantine 
+  A virtual book club to help keep readers connected. BookNet Club brings readers together in a virtual setting to discuss books, share insights, and participate in scheduled reading events, fostering a community of book lovers. 
 </td>
 </tr>
 </table>
