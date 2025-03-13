@@ -1,12 +1,9 @@
-
-  <img src="./public/assets/homepage.jpg" alt="plantkins"  width="1200" height="550px"/>
-
 ## BookNet-Club
 
 <table>
 <tr>
 <td>
-  A virtual book club to help keep readers connected during quarantine 
+  BookNet Club brings readers together in a virtual setting to discuss books, share insights, and participate in scheduled reading events, fostering a community of book lovers.
 </td>
 </tr>
 </table>
