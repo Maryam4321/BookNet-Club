@@ -1,10 +1,7 @@
-# BookNet-Club
-BookNet Club brings readers together in a virtual setting to discuss books, share insights, and participate in scheduled reading events, fostering a community of book lovers.
-
 
   <img src="./public/assets/homepage.jpg" alt="plantkins"  width="1200" height="550px"/>
 
-## QT BOOK CLUB
+## BookNet-Club
 
 <table>
 <tr>
@@ -14,9 +11,11 @@ BookNet Club brings readers together in a virtual setting to discuss books, shar
 </tr>
 </table>
 
-## Take it for a spin.
+## Features
 
-Here is a working live demo : https://protected-sierra-06049.herokuapp.com/
+**Interactive Discussions:** Engage in meaningful conversations and share insights with fellow readers.
+**Event Scheduling:** Organize and participate in scheduled book discussions and meetings.
+
 
 ## Contributions
 
@@ -37,5 +36,6 @@ To fix a bug or enhance an existing module, follow these steps:
 - [Handlebars](https://handlebarsjs.com/)
 - [MySQL](https://www.mysql.com/)
 - [Node - Express](https://nodejs.org/en/)
+
 
 
