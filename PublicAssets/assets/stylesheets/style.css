@@ -1,0 +1,96 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+a:hover {
+    background-color: blue;
+}
+
+
+* { 
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.nav-wrapper {
+    
+    margin-left: 1.2rem;
+    
+}
+
+
+.row {
+  text-align: center;
+}
+#book-card {
+    border: 1px black;
+}
+
+#p5-bg-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -100;
+}
+
+.orange-text {
+  text-align: center;
+}
+.current-card-image {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.header {
+  color: rgb(245, 244, 239) !important;
+  background-color: rgb(148, 213, 220);
+}
+
+.card-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+}
+
+.card {
+  position: relative;
+}
+
+/*
+
+.header {
+  color: rgb(245, 244, 239) !important;
+  background-color: rgb(148, 213, 220);
+}
+
+white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  auto 0
+
+
+
+.comment-card {
+  width: 500px;
+  align-content: center !important;
+}
+
+.description {
+  color: white;
+}
+
+
+
+#ubTitle {
+  background-color: white;;
+}
